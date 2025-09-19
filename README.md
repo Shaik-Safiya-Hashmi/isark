@@ -51,8 +51,8 @@ Isark/
 
 ### 1️⃣ Clone Repository  
 ```bash
-git clone https://github.com/your-username/ayurtrace.git
-cd ayurtrace
+git clone https://github.com/your-username/isark.git
+cd isark
 ```
 
 ### 2️⃣ Start Blockchain Network  
